@@ -13,6 +13,5 @@
 2. [C++版 AC](https://github.com/cjgdev/aho_corasick)
 
 # 相关文献
-1. [Python Demo](http://algo.pw/algo/64/python)
-2. [多模式匹配算法](https://www.cnblogs.com/xudong-bupt/p/3433506.html)
-3. [码农场DoubleArrayTrie](http://www.hankcs.com/program/algorithm/aho-corasick-double-array-trie.html)
+1. [多模式匹配算法](https://www.cnblogs.com/xudong-bupt/p/3433506.html)
+2. [码农场DoubleArrayTrie](http://www.hankcs.com/program/algorithm/aho-corasick-double-array-trie.html)
