@@ -1,0 +1,8 @@
+.idea/
+*.pyc
+*.log
+tmp/
+__init__.py
+__pycache__/
+tmp.py
+model.pkl
