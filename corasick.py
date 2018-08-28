@@ -83,8 +83,8 @@ class CreateAcAutomaton(object):
 
 
 if __name__ == "__main__":
-    data = ['誉存', '誉存', '誉存科技', '重庆誉存', "重庆誉存大数据"]
-    s = "重庆誉存大数据科技有限公司誉誉存"
+    data = ['he', 'she', 'his', 'hers']
+    s = "ushers"
     ct = CreateAcAutomaton(data, "model.pkl")
     print(ct.search(s))
 
